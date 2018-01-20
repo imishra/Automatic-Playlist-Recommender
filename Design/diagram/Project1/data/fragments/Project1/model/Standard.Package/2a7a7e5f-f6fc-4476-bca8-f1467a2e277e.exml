@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ACTIVITY" version="4">
+  <OBJECT>
+    <ID name="ACTIVITY" mc="Standard.Package" uid="2a7a7e5f-f6fc-4476-bca8-f1467a2e277e"/>
+    <PID name="Music Recommendor" mc="Standard.Project" uid="3a56cefe-cc3c-4b42-82ec-5202ee822d4c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ACTIVITY]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Product">
+        <COMPID name="ACTIVITY Object diagram" mc="Standard.ObjectDiagram" uid="4d0a5506-8bff-4f23-b581-9983f91d5b04"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

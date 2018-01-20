@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="USE CASE" version="4">
+  <OBJECT>
+    <ID name="USE CASE" mc="Standard.Package" uid="ebf5e118-30da-49ab-9898-10ddfd24cc8e"/>
+    <PID name="Music Recommendor" mc="Standard.Project" uid="3a56cefe-cc3c-4b42-82ec-5202ee822d4c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[USE CASE]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actor" mc="Standard.Actor" uid="09a84d68-daee-4e1c-86d8-06e512a85143"/>
+        <COMPID name="Actor1" mc="Standard.Actor" uid="15e40f99-3d19-4c33-9f0e-4a3427752f8e"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="USE CASE Use Case diagram" mc="Standard.UseCaseDiagram" uid="9e68b314-d571-4747-88b4-62c1bd01bb9d"/>
+        <COMPID name="USE CASE Use Case diagram" mc="Standard.UseCaseDiagram" uid="175fc306-010c-4544-b4d0-d74a2634e9bb"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

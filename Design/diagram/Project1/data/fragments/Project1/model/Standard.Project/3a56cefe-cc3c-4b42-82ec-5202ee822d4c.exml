@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Music Recommendor" version="4">
+  <OBJECT>
+    <ID name="Music Recommendor" mc="Standard.Project" uid="3a56cefe-cc3c-4b42-82ec-5202ee822d4c"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Music Recommendor]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="ACTIVITY" mc="Standard.Package" uid="2a7a7e5f-f6fc-4476-bca8-f1467a2e277e"/>
+        <COMPID name="DATABASE" mc="Standard.Package" uid="da915453-0a1a-4013-a3b7-ea8aa8f3d19f"/>
+        <COMPID name="USE CASE" mc="Standard.Package" uid="ebf5e118-30da-49ab-9898-10ddfd24cc8e"/>
+        <COMPID name="CLASS" mc="Standard.Package" uid="ff070998-e23e-48a9-af4d-77efce874c42"/>
+        <COMPID name="SYSTEM SEQUENCE" mc="Standard.Package" uid="4ef59cc8-f399-42be-9ac6-fd2439ec3124"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Project1" mc="Infrastructure.DiagramSet" uid="5ccd51cd-ac1c-40cb-8031-38aabb3ebc02"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

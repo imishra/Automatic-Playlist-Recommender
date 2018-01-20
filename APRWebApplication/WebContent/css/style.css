@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+
+body{
+	margin:0;
+	padding:0;
+	height:100%;
+	background:#e5e5e5;
+}
+
+.main-wrapper{
+	 min-height: 100vh; /* will cover the 100% of viewport */
+	 overflow: hidden;
+	 display: block;
+	 position: relative;
+	 padding-bottom: 30px; /* height of your footer */
+}
+.page-center-panel{
+	left:50%; 
+	top:50%; 
+	margin-left:-220px; 
+	margin-top:150px; 
+}
+#signupbox.page-center-panel{
+	margin-left:-220px; 
+	margin-top:50px; 
+}
+#login-panel{
+	width:440px;
+	height:340px;
+	border:none;
+}
+#signupbox{
+	width:540px;
+	display:none;
+}
+.relative{
+	position: relative;
+}
+.error-border{
+	border:1px solid #a94442;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+.error-text{
+	color:#a94442;
+}
+.country-dropdown .btn,.sex-dropdown .btn{
+	margin-left:15px;
+}
+#country-menu,#sex-menu{
+	margin-left:140px;
+}
+.custom-heading{
+	background-color:#165880 !important;
+	color:#ffffff !important;
+	font-weight:bold;
+}
+
+#loginbox .btn{
+	margin-top:20px;
+}
+.custom-heading a{
+	color:#ffffff;
+}
+
+#playlist-container{
+	text-align:center;
+	vertical-align: top;
+	margin:50px 50px 20px 50px;
+}
+.plalist-panel{
+	display:inline-block;
+	vertical-align: top;
+	margin:0px 10px;
+	width:350px;
+	padding:10px 20px;
+}
+.plalist-panel .active{
+	font-weight:bold;
+	text-align:center;
+}
+#signupform .input-group{
+	padding-right:15px;
+	padding-left:15px;
+}
+#signupform .form-control-feedback{
+	top:0; 
+}
+#signupform .with-errors{
+	float: right;
+	margin:0 15px 0 0;
+}
